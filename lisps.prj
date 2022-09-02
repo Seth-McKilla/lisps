@@ -3,7 +3,7 @@
   :NAME
   lisps
   :OWN-LIST
-  ("pt2block")
+  ("/home/seth/sourcecode/ssllc/lisps/src/pt2block")
   :FAS-DIRECTORY
   nil
   :TMP-DIRECTORY
