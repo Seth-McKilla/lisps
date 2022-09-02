@@ -1,0 +1,16 @@
+;;; VLisp project file [V2.0] lisps saved to:[/home/seth/sourcecode/ssllc/lisps] at:[9/2/2022]
+(VLISP-PROJECT-LIST 
+  :NAME
+  lisps
+  :OWN-LIST
+  ("/home/seth/sourcecode/ssllc/lisps/points/pt2block")
+  :FAS-DIRECTORY
+  nil
+  :TMP-DIRECTORY
+  nil
+  :PROJECT-KEYS
+  (:BUILD (:standard))
+  :CONTEXT-ID
+  :AUTOLISP
+)
+;;; EOF
